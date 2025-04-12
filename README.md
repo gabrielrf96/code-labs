@@ -5,7 +5,7 @@ This repository acts as an index to facilitate access to all the projects create
 
 ## List of projects
 
-| Project | Language | Framework / Technlogy | Date |
+| Project | Language | Framework / Technology | Date |
 | :--- | :--- | :--- | :--- |
 | [**Go RSS aggregator**](https://github.com/gabrielrf96/go-rss-aggregator) | Go | - | 2025-04 |
 
