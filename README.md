@@ -27,7 +27,6 @@ This repository acts as an index to facilitate access to all the projects create
 
 
 <br/>
-<br/>
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="graphic/CodeLabs-logo-darkbg-compact.svg">
