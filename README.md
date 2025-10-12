@@ -2,9 +2,10 @@
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="graphic/CodeLabs-logo-darkbg-horizontal.svg">
         <source media="(prefers-color-scheme: light)" srcset="graphic/CodeLabs-logo-lightbg-horizontal.svg">
-        <img alt="Code Labs" src="graphic/CodeLabs-logo-lightbg-horizontal.svg" width="80%">
+        <img alt="Code Labs" src="graphic/CodeLabs-logo-lightbg-horizontal.svg" width="60%">
     </picture>
 </p>
+<br/>
 <br/>
 
 A series of **pet projects** created to **learn** or **improve my skills** in new languages, frameworks or other technologies.
