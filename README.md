@@ -1,5 +1,9 @@
 <p align="center">
-    <img width="80%" src="graphic/CodeLabs-logo-horizontal.svg">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="graphic/CodeLabs-logo-darkbg-horizontal.svg">
+        <source media="(prefers-color-scheme: light)" srcset="graphic/CodeLabs-logo-lightbg-horizontal.svg">
+        <img alt="Code Labs" src="graphic/CodeLabs-logo-lightbg-horizontal.svg" width="80%">
+    </picture>
 </p>
 <br/>
 
@@ -25,5 +29,9 @@ This repository acts as an index to facilitate access to all the projects create
 <br/>
 <br/>
 <p align="center">
-  <img width="20%" src="graphic/CodeLabs-logo-compact.svg">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="graphic/CodeLabs-logo-darkbg-compact.svg">
+        <source media="(prefers-color-scheme: light)" srcset="graphic/CodeLabs-logo-lightbg-compact.svg">
+        <img alt="Code Labs" src="graphic/CodeLabs-logo-lightbg-compact.svg" width="20%">
+    </picture>
 </p>
