@@ -16,8 +16,8 @@ This repository acts as an index to facilitate access to all the projects create
 
 | Project | Language | Tools / technologies | Date | Comments |
 | :--- | :--- | :--- | :--- | :--- |
-| [**seQura code challenge**](https://github.com/gabrielrf96/sequra-code-challenge) | Rust | Docker | Oct. 2025 | Take-home project for an interview process. |
-| [**Go RSS aggregator**](https://github.com/gabrielrf96/go-rss-aggregator) | Go | - | Apr. 2025 |  |
+| [**seQura code challenge**](https://github.com/gabrielrf96/sequra-code-challenge) | Rust | Docker | Oct.&nbsp;2025 | Take-home project for an interview process. |
+| [**Go RSS aggregator**](https://github.com/gabrielrf96/go-rss-aggregator) | Go | - | Apr.&nbsp;2025 |  |
 
 <br/>
 <br/>
