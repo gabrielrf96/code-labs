@@ -8,15 +8,16 @@
 <br/>
 <br/>
 
-A series of **pet projects** created to **learn** or **improve my skills** in new languages, frameworks or other technologies.
+A series of **pet projects** created to **learn** or **improve my skills** in new languages, frameworks or other technologies. This collection also includes code challenges and similar small projects.
 
-This repository acts as an index to facilitate access to all the projects created with that purpose.
+This repository acts as an index to facilitate access to all the projects created within those contexts.
 
 ## List of projects
 
-| Project | Language | Framework / Technology | Date | Comments |
+| Project | Language | Tools / technologies | Date | Comments |
 | :--- | :--- | :--- | :--- | :--- |
-| [**Go RSS aggregator**](https://github.com/gabrielrf96/go-rss-aggregator) | Go | - | 2025-04 |  |
+| [**seQura code challenge**](https://github.com/gabrielrf96/sequra-code-challenge) | Rust | Docker | October 2025 | Take-home project for an interview process. |
+| [**Go RSS aggregator**](https://github.com/gabrielrf96/go-rss-aggregator) | Go | - | April 2025 |  |
 
 <br/>
 <br/>
